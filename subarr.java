@@ -12,8 +12,8 @@ public class subarr {
                 System.out.println();
             }
             System.out.println();
-            System.out.println("Total subarray= "+tp);
         }
+        System.out.println("Total subarray= "+tp);
     }   
     public static void main(String[] args) {
         int num[]= {2,4,6,8,10};
