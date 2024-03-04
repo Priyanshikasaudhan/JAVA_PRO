@@ -13,7 +13,7 @@ public class kadanes {
         System.out.println("MAX= "+ms);
     }
     public static void main(String[] args) {
-        int num[]={-2,-3,4,-1,-2,5,-3};
+        int num[]={ -1,2,-32,43,-4};
         kadane(num);
     }
 }
